@@ -1,5 +1,9 @@
 # JavaScript-Module-2-Todo-Workshop
 
+> ⚠️ **If your assignment has been given to you through GitHub Classroom, this repository *does not need to be forked*: open the created repository using CodeSpaces OR clone the created repository!**
+
+> 💡 Inside a CodeSpace or VS Code, you can also use the shortcut: Control+Alt+N (or ⌃ Control+⌥ Option+N on macOS), or press F1 and then select/type Run Code, the code will run and the output will be shown in the Output window.
+
 ## Table of contents
 - **[Part-1 JavaScript in the browser](#part-1-javascript-in-the-browser)**
   - [Node.js versus browser](#nodejs-vs-browser)
