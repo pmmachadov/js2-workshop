@@ -1,7 +1,5 @@
 # JavaScript-Module-2-Todo-Workshop
 
-## Getting started
-* Fork and Clone this repo.
 ## Table of contents
 - **[Part-1 JavaScript in the browser](#part-1-javascript-in-the-browser)**
   - [Node.js versus browser](#nodejs-vs-browser)
